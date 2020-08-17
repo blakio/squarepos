@@ -6,7 +6,7 @@ var applicationId = "sq0idp-4CVw5fpKwLHOxXyqa1LoZQ";
 
 // The total and currency code should come from your transaction flow.
 // For now, we are hardcoding them.
-var transactionTotal = "1";
+var transactionTotal = "100";
 var currencyCode = "USD";
 
 // The version of the Point of Sale SDK that you are using.
