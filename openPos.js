@@ -1,5 +1,5 @@
 // The URL where the Point of Sale app will send the transaction results.
-var callbackUrl = "callback.html";
+var callbackUrl = "https://blakio.github.io/squarepos/callback.html";
 
 // Your application ID
 var applicationId = "sq0idp-4CVw5fpKwLHOxXyqa1LoZQ";
